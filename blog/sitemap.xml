@@ -4,133 +4,133 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://40623116.github.io/w16/blog/</loc>
-<lastmod>2018-01-02T18:46:27-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2018-01-03T18:14:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/archives.html</loc>
-<lastmod>2018-01-02T18:46:27-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2018-01-03T18:14:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/tags.html</loc>
-<lastmod>2018-01-02T18:46:27-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2018-01-03T18:14:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/categories.html</loc>
-<lastmod>2018-01-02T18:46:27-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2018-01-03T18:14:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/pages/about/</loc>
+<loc>./pages/about/</loc>
 <lastmod>2017-12-30T20:55:26+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/40623116-2017-fall-w8.html</loc>
+<loc>./40623116-2017-fall-w8.html</loc>
 <lastmod>2017-11-08T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/40623116-W7-exam.html</loc>
+<loc>./40623116-W7-exam.html</loc>
 <lastmod>2017-11-01T10:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/2017-fall-w8.html</loc>
+<loc>./2017-fall-w8.html</loc>
 <lastmod>2017-10-31T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/2017-fall-w6.html</loc>
+<loc>./2017-fall-w6.html</loc>
 <lastmod>2017-10-26T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/2017-fall-w5.html</loc>
+<loc>./2017-fall-w5.html</loc>
 <lastmod>2017-10-12T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/4062-brython-editor-334.html</loc>
+<loc>./4062-brython-editor-334.html</loc>
 <lastmod>2017-10-03T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/2017-fall-cadp-w2.html</loc>
+<loc>./2017-fall-cadp-w2.html</loc>
 <lastmod>2017-09-20T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/category/course.html</loc>
+<loc>./category/course.html</loc>
 <lastmod>2017-11-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/tag/2017fall.html</loc>
+<loc>./tag/2017fall.html</loc>
 <lastmod>2017-11-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/tag/cp.html</loc>
+<loc>./tag/cp.html</loc>
 <lastmod>2017-11-01T10:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/tag/brython.html</loc>
+<loc>./tag/brython.html</loc>
 <lastmod>2017-10-03T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/tag/w4.html</loc>
+<loc>./tag/w4.html</loc>
 <lastmod>2017-10-03T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/tag/cadp.html</loc>
+<loc>./tag/cadp.html</loc>
 <lastmod>2017-09-20T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40623116.github.io/w16/blog/author/40623116.html</loc>
+<loc>./author/40623116.html</loc>
 <lastmod>2017-11-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
