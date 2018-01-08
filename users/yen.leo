@@ -52,7 +52,7 @@
 <v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170108171733.16"><vh>W1-W3</vh>
+<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
 <v t="leo.20171109010358.1" a="E"><vh>準備與鼓勵</vh>
 <v t="leo.20171109010403.1"><vh>內容</vh></v>
 </v>
@@ -122,7 +122,7 @@
 <v t="leo.20180103181226.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180109000712.1"><vh>課堂筆記</vh>
+<v t="leo.20180109000712.1" a="E"><vh>課堂筆記</vh>
 <v t="leo.20180109000712.2" a="E"><vh>筆記</vh>
 <v t="leo.20180109000712.3"><vh>內容</vh></v>
 </v>
@@ -1575,23 +1575,23 @@ Diff...
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20180109000712.3">https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/23659922_1901925626791230_210771827_o.jpg
+<t tx="leo.20180109000712.3">&lt;img src="https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/23659922_1901925626791230_210771827_o.jpg" width="500" height="300"&gt;&lt;/a&gt;
 
-https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26648108_1929377210712738_1663837906_n.jpg
+&lt;img src="https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26648108_1929377210712738_1663837906_n.jpg" width="500" height="300"&gt;&lt;/a&gt;
 
-https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26648345_1929377200712739_1531790393_n.jpg
+&lt;img src="https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26648345_1929377200712739_1531790393_n.jpg" width="500" height="300"&gt;&lt;/a&gt;
 
-https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26648459_1929377207379405_863018223_n.jpg
+&lt;img src="https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26648459_1929377207379405_863018223_n.jpg" width="500" height="300"&gt;&lt;/a&gt;
 
-https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26648459_1929377207379405_863018223_n.jpg
+&lt;img src="https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26648459_1929377207379405_863018223_n.jpg" width="500" height="300"&gt;&lt;/a&gt;
 
-https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26695644_1929377217379404_1731457893_o.jpg
+&lt;img src="https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26695644_1929377217379404_1731457893_o.jpg" width="500" height="300"&gt;&lt;/a&gt;
 
-https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26732199_1929377194046073_891366196_o.jpg
+&lt;img src="https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26732199_1929377194046073_891366196_o.jpg" width="500" height="300"&gt;&lt;/a&gt;
 
-https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26772244_1929377190712740_1177591275_o.jpg
+&lt;img src="https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26772244_1929377190712740_1177591275_o.jpg" width="500" height="300"&gt;&lt;/a&gt;
 
-https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26782482_1929377204046072_2034349362_o.jpg</t>
+&lt;img src="https://raw.githubusercontent.com/40623116/w16/gh-pages/data/image/26782482_1929377204046072_2034349362_o.jpg" width="500" height="300"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180109001059.1">&lt;section&gt;
     @others
 &lt;/section&gt;
