@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://40623116.github.io/w16/blog/" rel="alternate"></link><link href="https://40623116.github.io/w16/blog/feeds/all.atom.xml" rel="self"></link><id>https://40623116.github.io/w16/blog/</id><updated>2017-12-21T16:00:00+08:00</updated><entry><title>計算機程式第十五週心得</title><link href="https://40623116.github.io/w16/blog/40623116-w15-view.html" rel="alternate"></link><published>2017-12-21T16:00:00+08:00</published><updated>2017-12-21T16:00:00+08:00</updated><author><name>40623116</name></author><id>tag:40623116.github.io,2017-12-21:/w16/blog/40623116-w15-view.html</id><summary type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://40623116.github.io/w16/blog/" rel="alternate"></link><link href="https://40623116.github.io/w16/blog/feeds/all.atom.xml" rel="self"></link><id>https://40623116.github.io/w16/blog/</id><updated>2017-12-28T16:00:00+08:00</updated><entry><title>計算機程式第十六週心得</title><link href="https://40623116.github.io/w16/blog/40623116-w16-view.html" rel="alternate"></link><published>2017-12-28T16:00:00+08:00</published><updated>2017-12-28T16:00:00+08:00</updated><author><name>40623116</name></author><id>tag:40623116.github.io,2017-12-28:/w16/blog/40623116-w16-view.html</id><summary type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
+&lt;p&gt;獨立完成計算機&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
+&lt;p&gt;獨立完成計算機&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容:&lt;/h2&gt;
+&lt;p&gt;計算機完成&lt;/p&gt;
+&lt;p&gt;製作期末報告資料&lt;/p&gt;
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;雖然製作計算機的過程有很多坎坷，從一開始的display是幹嘛的都不知道，到最後能夠獨自完成一台完整的計算機，我覺得這個收穫真的是得來不易，希望我在未來能夠將這幾週來學到的技能發揮在有用的地方上。&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第十五週心得</title><link href="https://40623116.github.io/w16/blog/40623116-w15-view.html" rel="alternate"></link><published>2017-12-21T16:00:00+08:00</published><updated>2017-12-21T16:00:00+08:00</updated><author><name>40623116</name></author><id>tag:40623116.github.io,2017-12-21:/w16/blog/40623116-w15-view.html</id><summary type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
 
 
@@ -7,7 +17,40 @@
 &lt;p&gt;驗收計算機成果&lt;/p&gt;
 &lt;p&gt;如何製作期末pdf檔&lt;/p&gt;
 &lt;h2&gt;心得:&lt;/h2&gt;
-&lt;p&gt;經過小組的合作與討論，我把計算機的功能搞懂了七八成，從完全看不懂到懂了快全部，真的經歷了很長一段時間，有的要反覆看了好幾次才了解這一句是做什麼的，但一切都看懂後真的真的很有成就感。&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第八週</title><link href="https://40623116.github.io/w16/blog/40623116-2017-fall-w8.html" rel="alternate"></link><published>2017-11-08T11:00:00+08:00</published><updated>2017-11-08T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:40623116.github.io,2017-11-08:/w16/blog/40623116-2017-fall-w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;經過小組的合作與討論，我把計算機的功能搞懂了七八成，從完全看不懂到懂了快全部，真的經歷了很長一段時間，有的要反覆看了好幾次才了解這一句是做什麼的，我覺得相當開心。&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第十四週心得</title><link href="https://40623116.github.io/w16/blog/40623116-w14-view.html" rel="alternate"></link><published>2017-12-14T16:00:00+08:00</published><updated>2017-12-14T16:00:00+08:00</updated><author><name>40623116</name></author><id>tag:40623116.github.io,2017-12-14:/w16/blog/40623116-w14-view.html</id><summary type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;協同製作計算機&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容:&lt;/h2&gt;
+&lt;p&gt;創建ag4_pyqt5_calculator 期末專案於Github&lt;/p&gt;
+&lt;p&gt;開始與組員協同製作計算機基本功能&lt;/p&gt;
+&lt;p&gt;處理衝突方法&lt;/p&gt;
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;上課上了十四週了，終於接觸到協同作業了，能和組員一起共同完成一份作業，我認為這是非常好的感覺，畢竟分工合作是不可或缺的條件，我覺得這比獨自一人完成還來的更加又成就感。&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第十三週心得</title><link href="https://40623116.github.io/w16/blog/40623116-w13-view.html" rel="alternate"></link><published>2017-12-08T16:00:00+08:00</published><updated>2017-12-08T16:00:00+08:00</updated><author><name>40623116</name></author><id>tag:40623116.github.io,2017-12-08:/w16/blog/40623116-w13-view.html</id><summary type="html">&lt;p&gt;整理學習歷程得方法&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;整理學習歷程得方法&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容:&lt;/h2&gt;
+&lt;p&gt;如何創建EtherCalc表單&lt;/p&gt;
+&lt;p&gt;透過概念、知識、執行、自學與想像等標示整理課程學習歷程。&lt;/p&gt;
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;學習如何透過概念、知識、執行、自學力與想像力增進自我價值與能力，使用表格來檢討自己學到了什麼，想學什麼，好奇什麼，讓我發現我有很多想要好好的學習，需要在更加努力才行。&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第十二週心得</title><link href="https://40623116.github.io/w16/blog/40623116-w12-view.html" rel="alternate"></link><published>2017-11-30T16:00:00+08:00</published><updated>2017-11-30T16:00:00+08:00</updated><author><name>40623116</name></author><id>tag:40623116.github.io,2017-11-30:/w16/blog/40623116-w12-view.html</id><summary type="html">&lt;p&gt;github創建&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;github創建&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容:&lt;/h2&gt;
+&lt;p&gt;繼承 run.py 與 ui
+案數字鍵出現對應數字(用for迴圈
+數字的堆疊&lt;/p&gt;
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;今天的上課內容，我有預習，所以完成的速度比較快，讓我覺得很有成就感，非常的開心。&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第十一週心得</title><link href="https://40623116.github.io/w16/blog/40623116-w11-view.html" rel="alternate"></link><published>2017-11-23T16:00:00+08:00</published><updated>2017-11-23T16:00:00+08:00</updated><author><name>40623116</name></author><id>tag:40623116.github.io,2017-11-23:/w16/blog/40623116-w11-view.html</id><summary type="html">&lt;p&gt;github創建&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;github創建&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容:&lt;/h2&gt;
+&lt;p&gt;在 Github 建立倉儲，利用 gh-pages 分支伺服 index.html，新增協同作業者&lt;/p&gt;
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;接觸github感覺很像fossil，指令的部分也大同小異，沒有差太多，只是有時指令會不小心打成fossil的，會不太習慣，需要再多加練習才行，畢竟未來職場上都必須具備這種技能。&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="PyQt5"></category></entry><entry><title>計算機程式第八週</title><link href="https://40623116.github.io/w16/blog/40623116-2017-fall-w8.html" rel="alternate"></link><published>2017-11-08T11:00:00+08:00</published><updated>2017-11-08T11:00:00+08:00</updated><author><name>40623116</name></author><id>tag:40623116.github.io,2017-11-08:/w16/blog/40623116-2017-fall-w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;心得&lt;/h3&gt;
 &lt;p&gt;期中考的壓力，讓我有點喘不過氣來，這幾週下來，我覺得很多東西我第一次聽到都覺得不知所措，不知道怎麼做才好，需要在更加的努力。&lt;/p&gt;
